@@ -2,9 +2,7 @@
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # Linux - TP 1
 
-
-* **Category:** category
-* **Points:** points
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Exercice 1 : Premières commandes et raccourcis claviers
 * **Question 1:** Tester chacune des commandes suivantes dans un terminal. Décrire en une phrase son utilité,
@@ -55,7 +53,7 @@ Ceci ferme le terminal can on envoie un SIGINT que le BASH interprete comme une 
 On ne trouve rien comme historique de commande.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-## Exercice 1 : Premières commandes et raccourcis claviers
+## Exercice 2 : Premières commandes et raccourcis claviers
 
 * **Question 1:**  Entrer la commande pwd (pour « print working directory », c’est-à-dire, afficher le nom du répertoire courant) et noter ce qui est imprimé à l’écran  * c’est le chemin absolu de votre home, répertoire personnel.
 
@@ -107,4 +105,33 @@ Gr-2. Entrer la commande echo ∼, puis la commande cd ∼. Qu’a fait le shell
 
 ![image](https://user-images.githubusercontent.com/91763346/194710018-a9817e4e-de0b-4783-a177-217259d2db54.png)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Exercice 3 :  Arborescence
 
+![image](https://user-images.githubusercontent.com/91763346/194710594-dbbef33b-4b4f-44f4-bbdf-9e01f98d4fc5.png)
+
+* **Question 1:**   Aller directement dans ~/Rapport/Docs/Afaire
+
+![image](https://user-images.githubusercontent.com/91763346/194710653-6d67f99b-3a80-4d75-aa8a-53c33261b820.png)
+
+![image](https://user-images.githubusercontent.com/91763346/194710666-9ce56ff2-3023-45a3-ad2e-47f7df3c922c.png)
+
+* **Question 2:**   De là, passer dans ~/Rapport/Docs/Fait
+
+![image](https://user-images.githubusercontent.com/91763346/194710746-678e5504-3031-4682-a43b-ad05c93a0b1a.png)
+
+* **Question 3:**    Revenir dans ~/Rapport
+
+![image](https://user-images.githubusercontent.com/91763346/194710795-6a310581-6cfc-4d67-a0a5-d5e2cb9eeac9.png)
+
+* **Question 4:**     Sans changer de répertoire, regarder avec la commande less le contenu de index.html
+
+![image](https://user-images.githubusercontent.com/91763346/194710827-f1629118-7a9a-48f1-95bc-413ab70562a0.png)
+
+* **Question 5:**    Sans changer de répertoire, afficher le contnu du répertoire Web
+
+![image](https://user-images.githubusercontent.com/91763346/194710940-43a484a3-fe57-4c5a-ade9-6b3317dcb14c.png)
+
+* **Question 6:**    Revenir dans ~
+
+![image](https://user-images.githubusercontent.com/91763346/194710988-5486fbbd-8a92-44b2-90ec-277bac678fc7.png)
