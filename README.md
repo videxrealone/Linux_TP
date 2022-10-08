@@ -107,12 +107,4 @@ Gr-2. Entrer la commande echo ∼, puis la commande cd ∼. Qu’a fait le shell
 
 ![image](https://user-images.githubusercontent.com/91763346/194710018-a9817e4e-de0b-4783-a177-217259d2db54.png)
 
-> The text of 
-> the challenge.
-## Solution
 
-The solution.
-
-```
-The flag.
-```
